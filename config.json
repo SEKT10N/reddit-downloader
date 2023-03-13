@@ -1,0 +1,11 @@
+{
+  "client_id": "client_id",
+  "secret": "secret",
+  "appname": "name",
+  "username": "username",
+  "password": "password",
+  "download_path": "E:/Reddit_Downloads",
+  "options": {
+    "open_imgur_links": "True"
+  }
+}
