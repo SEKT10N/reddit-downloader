@@ -5,7 +5,7 @@
  
  # Usage
  - Clone this repo:
- `git clone https://github.com/SEKT10N/reddit-bot.git`
+ `git clone https://github.com/SEKT10N/reddit-downloader.git`
  - Go [**here**](https://www.reddit.com/prefs/apps) and register for an app/script
  - After registeration you'll see app information, from there copy `client_id` and `secret` and paste it in `config.json`'s respective fields
  - Also put appname, username and password in config file and you can change other options like: download path and whether to open links given in a post in browser or not
